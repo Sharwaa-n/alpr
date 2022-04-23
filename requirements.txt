@@ -1,0 +1,13 @@
+Flask==1.1.2
+opencv_python==4.4.0.44
+flask_peewee==3.0.3
+numpy==1.16.2
+peewee_validates==1.0.7
+peewee==3.1.0
+Flask_Cors==3.0.9
+peewee_extra_fields==2.5.5
+protobuf==3.13.0
+PyJWT==1.7.1
+python-dotenv==0.15.0
+bcrypt==3.2.0
+google-cloud-vision==2.0.0
